@@ -1,6 +1,6 @@
 # Model Classifying Spoken Digits
 
-Our model predicts the values of spoken digits for the sake of helping medical professionals with accurate dosage labeling. Our model can predicts with 85% accuracy. We programmed this using numerous Python libraries, includig the Keras library to build and train our neural network and the Librosa library to intake our 30,000 audio files, convert them to MFCC coefficients, and help our model analyze and predict the value of the spoken digit.
+Our model predicts the values of spoken digits for the sake of helping medical professionals with accurate dosage labeling. Our model predicts with 97% accuracy. We programmed this using numerous Python libraries, includig the Keras library to build and train our neural network and the Librosa library to intake our 30,000 audio files, convert them to MFCC coefficients, and help our model analyze and predict the value of the spoken digit.
 
 The AI4ALL Ignite Program seeks to expand access to AI education to all students. It is a wonderful program that hosts a weekly lecture, teaching students about the concepts and implementations of AI, as well as the ethical considerations one must make when building an AI model and/or using AI. The program assigns students to small groups with provided mentors and enables students to collaborate on an AI project of their choosing.
 
@@ -12,8 +12,8 @@ Because my group was assigned to the Healtchare and Life Sciences sector of AI4A
 
 Enumerate the main results of this project in a list and describe them.
 1. Inputted 30,000 recorded entries from an Audio MINST Kaggle dataset, as well hundreds of our own voiced entries.
-2. Achieved 99% accuracy with our model.
-3. Made a Streamlit web interface to test our model in real time and as of now have attained 85% accuracy.
+2. Achieved 97% accuracy with our model.
+3. Made a Streamlit web interface to test our model in real time and as of now have attained around 90% accuracy for each digit.
 
 
 ## Methodologies <!--- do not change this line -->
